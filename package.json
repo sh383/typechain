@@ -1,0 +1,13 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "This is a blockchain project with typescript",
+  "main": "index.js",
+  "repository": "https://github.com/sh383/typechain.git",
+  "author": "Hoon",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
